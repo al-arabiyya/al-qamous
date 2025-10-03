@@ -1,0 +1,6 @@
+{
+  "tailwindStylesheet": "./css/al_qamous.css",
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ]
+}
