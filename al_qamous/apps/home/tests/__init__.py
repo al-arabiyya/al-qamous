@@ -1,1 +1,1 @@
-"""Tests for al_qamous.home"""
+"""Tests for al_qamous.apps.home"""

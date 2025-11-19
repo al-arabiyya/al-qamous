@@ -1,4 +1,4 @@
-"""Tests for al_qamous.apps.home.models"""
+"""Tests for al_qamous.apps.words.models"""
 
 from django.test import TestCase
 

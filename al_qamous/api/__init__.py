@@ -1,1 +1,0 @@
-"""al-qamous APIs"""

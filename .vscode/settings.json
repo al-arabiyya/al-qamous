@@ -1,6 +1,6 @@
 {
-    "python.analysis.typeCheckingMode": "standard",
-    "emmet.includeLanguages": {
-        "django-html": "html"
-    }
+  "python.analysis.typeCheckingMode": "standard",
+  "emmet.includeLanguages": {
+    "django-html": "html"
+  }
 }
